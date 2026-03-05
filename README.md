@@ -7,3 +7,10 @@
 >> src -> Components -> All Components
 
 >> src -> Constants -> index.js -> all data(json)
+
+>> src -> Store -> window.js -> window state management
+
+>> npm install zustand
+
+>> npm install immer
+
