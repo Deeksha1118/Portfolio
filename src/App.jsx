@@ -1,7 +1,13 @@
 import Dock from '@components/Dock'
 import Navbar from '@components/Navbar'
 import Welcome from '@components/Welcome'
+import Terminal from '@windows/Terminal'
+import gsap from 'gsap'
+import { Draggable } from 'gsap/Draggable'
 import React from 'react'
+
+// to make all of the windows draggable
+gsap.registerPlugin(Draggable);
 
 const App = () => {
   return (
@@ -9,6 +15,8 @@ const App = () => {
       <Navbar />
       <Welcome />
       <Dock />
+
+      <Terminal />
     </main>
   )
 }
