@@ -10,7 +10,11 @@
 
 >> src -> Store -> window.js -> window state management
 
+>> npm install react-tooltip  
+
 >> npm install zustand
 
 >> npm install immer
 
+>>what i need to modify
+Add my tech stack in Teminal.jsx, blog post in Safari.jsx
