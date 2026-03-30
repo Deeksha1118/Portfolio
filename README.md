@@ -16,5 +16,7 @@
 
 >> npm install immer
 
+>> npm install react-pdf
+
 >>what i need to modify
-Add my tech stack in Teminal.jsx, blog post in Safari.jsx
+Add my tech stack in Teminal.jsx, blog post in Safari.jsx, add my resume in Resume.jsx
